@@ -5,8 +5,8 @@ for convinience, my projects are divided into difficulty levels: from an easy le
 
 ABOUT ME:
 my path to data analytics started in early 2022. 
-as i was daily engaged in analytics while being a marketing manager, i figured that analysis is something that drives interest for me.
-within next months i started taking courses.
+as i was daily engaged in analytics while being a marketing manager for 5 years, i figured that analysis is something that drives interest for me.
+within next months i started taking courses and practicing.
 
 my previous experience with data and analysis has helped me in this journey. 
 as i was already exploiting sophisticated excel formulas daily, and regularly engaged in data collection, prep & analytics, the learning process went smoothly and easily.
